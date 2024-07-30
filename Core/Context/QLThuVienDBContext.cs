@@ -17,7 +17,7 @@ namespace PRO131_Duan1_FA23.Core.Context
         public DbSet<KhachHangSach> KhachHangSach { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=pub-QuanLyThuVien-kpb65er2-581339f.dbaas.bfcplatform.vn;Username=root;Password=wKZ2eCy69nDm4BBtivM9i7HyjTZTiVA6Cyso;database=QuanLyThuVienDB;Port=5432");
+            optionsBuilder.UseNpgsql("...");
         }
     }
 }
