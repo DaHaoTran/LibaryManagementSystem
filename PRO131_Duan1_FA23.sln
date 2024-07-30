@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRO131_Duan1_FA23", "PRO131_Duan1_FA23.csproj", "{06640305-A337-4523-963F-EDF8FB0D3C80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCases", "..\TestCases\TestCases.csproj", "{C608B4AD-7735-43C4-B598-E42AA71EE50C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QLTVsetup", "..\QLTVsetup\QLTVsetup.vdproj", "{D5EC6086-D256-4F25-A68C-FE879FAD3462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06640305-A337-4523-963F-EDF8FB0D3C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06640305-A337-4523-963F-EDF8FB0D3C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06640305-A337-4523-963F-EDF8FB0D3C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06640305-A337-4523-963F-EDF8FB0D3C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C608B4AD-7735-43C4-B598-E42AA71EE50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C608B4AD-7735-43C4-B598-E42AA71EE50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C608B4AD-7735-43C4-B598-E42AA71EE50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C608B4AD-7735-43C4-B598-E42AA71EE50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5EC6086-D256-4F25-A68C-FE879FAD3462}.Debug|Any CPU.ActiveCfg = Debug
+		{D5EC6086-D256-4F25-A68C-FE879FAD3462}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFF086A-4494-4412-81E0-32BD6098ABDD}
+	EndGlobalSection
+EndGlobal
